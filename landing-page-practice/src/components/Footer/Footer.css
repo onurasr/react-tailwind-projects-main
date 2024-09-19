@@ -1,0 +1,12 @@
+.footer {
+    background-color: #0f172a;
+    color: white;
+}
+
+.footer-navigation-item li:last-child {
+    padding-right: 0;
+}
+
+.footer-navigation-globe-icon {
+    width: 100px;
+}
